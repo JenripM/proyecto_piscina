@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="">
 <head>
-<title>Nekmit</title>
+<title>Academia de Piscina</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="{{asset('plantillap/styles/layout.css')}}" rel="stylesheet" type="text/css" media="all">
@@ -18,7 +18,7 @@
   <header id="header" class="hoc clear">
     <div id="logo" class="fl_left"> 
       <!-- ################################################################################################ -->
-      <h1><a href="index.html">Nekmit</a></h1>
+      <h1><a href="index.html">A. Piscina</a></h1>
       <!-- ################################################################################################ -->
     </div>
     <nav id="mainav" class="fl_right"> 
@@ -50,14 +50,9 @@
   <div id="pageintro" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <article>
-      <h3 class="heading">Suspendisse potenti</h3>
-      <p>Arcu mi porttitor est non felis aliquam ullamcorper sed porttitor accumsan arcu maecenas lorem elit tristique quis iaculis at euismod vel arcu donec et lorem.</p>
-      <footer>
-        <ul class="nospace inline pushright">
-          <li><a class="btn" href="#">Integer</a></li>
-          <li><a class="btn inverse" href="#">Egestas</a></li>
-        </ul>
-      </footer>
+      <h3 class="heading">Confianza, técnica y diversión.</h3>
+      <p>Domina el agua, mejora tu técnica y alcanza tus metas con nuestros cursos de natación para todas las edades y niveles</p>
+     
     </article>
     <!-- ################################################################################################ -->
   </div>
